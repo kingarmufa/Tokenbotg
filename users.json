@@ -19,5 +19,26 @@
     "read_announcements": [],
     "created_at": "2026-08-03T15:27:09.474Z",
     "updated_at": "2026-08-03T15:27:09.474Z"
+  },
+  {
+    "id": "ee101a04-c00a-4eaa-ad16-63ea1dd47d97",
+    "username": "armufa_gamers_official_channel",
+    "email": "armufa2010@gmail.com",
+    "password": null,
+    "role": "regular",
+    "google_id": "113492726409565546648",
+    "apikey": "OKAPI-215D39150C6A3B48",
+    "balance": 0,
+    "email_verified": true,
+    "verify_token": null,
+    "verify_token_expires": null,
+    "twofa_enabled": false,
+    "twofa_otp": null,
+    "twofa_otp_expires": null,
+    "reset_token": null,
+    "reset_token_expires": null,
+    "read_announcements": [],
+    "created_at": "2026-08-03T15:52:45.912Z",
+    "updated_at": "2026-08-03T15:52:45.912Z"
   }
 ]
