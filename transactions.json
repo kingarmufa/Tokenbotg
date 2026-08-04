@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "#INV-8A92F0BC",
+    "user_id": "71b4e4fb-87f7-455a-bfec-8d67b414c304",
+    "username": "admin",
+    "product_code": "FF-DIAMOND-001",
+    "product_name": "Free Fire 5 Diamonds",
+    "category": "game",
+    "target": "959594244",
+    "zone_id": null,
+    "dest": "959594244",
+    "ref_id": null,
+    "amount": 1220,
+    "amount_to_pay": 1265,
+    "provider_price": 1070,
+    "status": "pending_payment",
+    "promo_code": null,
+    "promo_discount": 0,
+    "payment_method": "qris",
+    "order_id": "QORD-5A2F4CD2",
+    "guest_email": null,
+    "guest_name": null,
+    "created_at": "2026-08-04T01:37:40.400Z"
+  }
+]
