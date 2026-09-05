@@ -7,7 +7,7 @@
     "role": "admin",
     "google_id": null,
     "apikey": "OKAPI-35AB35664EBD8B67",
-    "balance": 0,
+    "balance": 1000,
     "email_verified": true,
     "verify_token": null,
     "verify_token_expires": null,
@@ -18,7 +18,7 @@
     "reset_token_expires": null,
     "read_announcements": [],
     "created_at": "2026-08-03T15:27:09.474Z",
-    "updated_at": "2026-08-03T23:02:16.088Z"
+    "updated_at": "2026-09-05T12:19:27.816Z"
   },
   {
     "id": "ee101a04-c00a-4eaa-ad16-63ea1dd47d97",
