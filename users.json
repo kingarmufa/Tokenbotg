@@ -46,7 +46,7 @@
     "username": "rensa",
     "email": "ehginicruel@gmail.com",
     "password": "$2b$10$sXQc03h8n6LvrH/1St02hOvpYHYBBFEp3UHEYrkdZ3jOtrDwRaf9y",
-    "role": "regular",
+    "role": "admin",
     "google_id": null,
     "apikey": "OKAPI-A466C16449460B2B",
     "balance": 0,
@@ -60,6 +60,6 @@
     "reset_token_expires": null,
     "read_announcements": [],
     "created_at": "2026-09-06T12:03:40.086Z",
-    "updated_at": "2026-09-06T12:03:40.086Z"
+    "updated_at": "2026-09-06T12:06:09.310Z"
   }
 ]
