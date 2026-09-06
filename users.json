@@ -40,5 +40,26 @@
     "read_announcements": [],
     "created_at": "2026-08-03T15:52:45.912Z",
     "updated_at": "2026-08-03T15:52:45.912Z"
+  },
+  {
+    "id": "db61b9d9-1fd3-409e-a2de-e2ee10402011",
+    "username": "rensa",
+    "email": "ehginicruel@gmail.com",
+    "password": "$2b$10$sXQc03h8n6LvrH/1St02hOvpYHYBBFEp3UHEYrkdZ3jOtrDwRaf9y",
+    "role": "regular",
+    "google_id": null,
+    "apikey": "OKAPI-A466C16449460B2B",
+    "balance": 0,
+    "email_verified": false,
+    "verify_token": "437086d461207433310fb430486bd1d245900a9e8099af75d27a80ef2bf1236e",
+    "verify_token_expires": "2026-09-07T12:03:40.086Z",
+    "twofa_enabled": false,
+    "twofa_otp": null,
+    "twofa_otp_expires": null,
+    "reset_token": null,
+    "reset_token_expires": null,
+    "read_announcements": [],
+    "created_at": "2026-09-06T12:03:40.086Z",
+    "updated_at": "2026-09-06T12:03:40.086Z"
   }
 ]
