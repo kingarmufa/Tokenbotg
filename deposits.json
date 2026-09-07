@@ -7,10 +7,12 @@
     "amount": 100000,
     "unique_code": 41,
     "amount_to_pay": 100041,
-    "status": "pending",
+    "status": "success",
     "qris_image": "https://files.catbox.moe/ld0l9z.jpg",
     "expired": "2026-09-07T12:31:45.561Z",
-    "created_at": "2026-09-07T12:01:45.561Z"
+    "created_at": "2026-09-07T12:01:45.561Z",
+    "paid_at": "2026-09-07T12:02:18.382Z",
+    "approved_by": "admin"
   },
   {
     "trxid": "DEP-MTQOGOVC0KS",
