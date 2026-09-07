@@ -49,7 +49,7 @@
     "role": "admin",
     "google_id": null,
     "apikey": "OKAPI-A466C16449460B2B",
-    "balance": 1010000,
+    "balance": 1020000,
     "email_verified": false,
     "verify_token": "437086d461207433310fb430486bd1d245900a9e8099af75d27a80ef2bf1236e",
     "verify_token_expires": "2026-09-07T12:03:40.086Z",
@@ -60,6 +60,6 @@
     "reset_token_expires": null,
     "read_announcements": [],
     "created_at": "2026-09-06T12:03:40.086Z",
-    "updated_at": "2026-09-07T03:26:18.671Z"
+    "updated_at": "2026-09-07T03:26:51.774Z"
   }
 ]
